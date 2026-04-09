@@ -16,6 +16,7 @@ Custom styling for the homepage action buttons
 Directory Structure
 
 
+```text
 L07-08/
 ├─ README.md
 ├─ package.json
@@ -25,17 +26,18 @@ L07-08/
 │  ├─ products.md
 │  ├─ api.md
 │  ├─ contact.md
-│  └─ learning/
-│     ├─ docs.md
-│     ├─ tutorials.md
-│     └─ examples.md
-└─ .vitepress/
-|  ├─ config.mjs
-|  └─ theme/
-|     ├─ custom.css
-├─ public
-|  ├─ logo.png
-└─ └─pb-hero.png
+│  ├─ learning/
+│  │  ├─ docs.md
+│  │  ├─ tutorials.md
+│  │  └─ examples.md
+│  ├─ .vitepress/
+│  │  ├─ config.mjs
+│  │  └─ theme/
+│  │     └─ custom.css
+│  └─ public/
+│     ├─ logo.png
+│     └─ pb-hero.png
+```
 
 How to Run
 
