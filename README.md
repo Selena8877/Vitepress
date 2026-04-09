@@ -14,6 +14,8 @@ A nav bar with dropdown navigation
 A sidebar on non-homepage pages
 Custom styling for the homepage action buttons
 Directory Structure
+
+
 L07-08/
 ├─ README.md
 ├─ package.json
