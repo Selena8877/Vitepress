@@ -36,7 +36,7 @@ L07-08/
 │  │     └─ custom.css
 │  └─ public/
 │     ├─ logo.png
-│     └─ pb-hero.png
+└─      └─ pb-hero.png
 ```
 
 How to Run
