@@ -4,18 +4,8 @@ Lab 14 — PaperBeam VitePress Site
 
 This lab uses VitePress to build a documentation-style website for the fictional web technology PaperBeam.
 
-You will create a small multi-page site that includes:
 
-A working homepage with the PaperBeam logo
-Customized hero text and action buttons
-Three fictional feature cards with icons
-Six working pages with your own written content
-A nav bar with dropdown navigation
-A sidebar on non-homepage pages
-Custom styling for the homepage action buttons
-Directory Structure
-
-
+Directory Hierarchy
 ```text
 L07-08/
 ├─ README.md
@@ -53,10 +43,6 @@ Then open:
 
 http://localhost:5173/
 PaperBeam Site Description
-
-The PaperBeam site is a fictional documentation website built with VitePress. It presents a homepage with branding, hero text, feature highlights, and action buttons that link to other parts of the site. The project also includes multiple content pages at the root level and inside a /learning subfolder.
-
-The site is designed to demonstrate both basic VitePress usage and customization of the default theme. It includes navigation, sidebar organization, markdown formatting, custom containers, code examples, and CSS styling changes for the homepage buttons.
 
 Lab Requirements
 Part 1 — Basic VitePress Site
