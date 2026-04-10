@@ -1,6 +1,6 @@
 # Vitepress
 
-Lab 14 — PaperBeam VitePress Site
+Lab 07-08 — PaperBeam VitePress Site
 
 This lab uses VitePress to build a documentation-style website for the fictional web technology PaperBeam.
 
